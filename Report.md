@@ -12,7 +12,7 @@
 
 ## Обнаруженные ошибки
 
-[issue]() 
+[Issue](https://github.com/MikhailUsachev-Piter/Money-Transfer/issues/1) 
 
 ## Общие рекомендации
 
